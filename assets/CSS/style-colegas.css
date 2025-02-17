@@ -15,6 +15,16 @@ main {
     color:#2E4A62
 }
 
+main h2 {
+    font-weight: 700;
+}
+
+main .link-fork {
+    color: #A3C5D9;
+    font-size: 1.5em;
+    padding: 2em;
+}
+
 main .col h3 {
     color: #6A9FB5;
 }
