@@ -1,14 +1,17 @@
 # Prueba curso "Introducción al desarrollo web" (G92)
 
 ## index.html
-Index.html muestra el CV actualizado, implementando CSS y Bootstrap.
+index.html muestra el CV actualizado, implementando CSS y Bootstrap.
 
-En el **nav bar** de Index.html hay links para acceder a:
+En el **nav bar** de index.html hay links para acceder a:
  - Portafolio
  - Forks (links, screenshots de forks y commits realizados)
+    - [Link directo a repositorio forkeado de colega Cristian Verdugo](https://github.com/camilahurtadoc/cristian-verdugo)
+    - [Link directo a repositorio forkeado de colega Andrés Peña](https://github.com/camilahurtadoc/andrespenam)
+
 
 ## portafolio.html
-El archivo portafolio.html muestra la recolección de proyectos realizados en el curso.
+El archivo portafolio.html muestra screenshots con la recolección de proyectos realizados en el curso.
 
 Se puede encontrar en /assets/html/portafolio.html
 
