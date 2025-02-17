@@ -1,18 +1,18 @@
 # Prueba curso "Introducción al desarrollo web" (G92)
 
-## Index.html
+## index.html
 Index.html muestra el CV actualizado, implementando CSS y Bootstrap.
 
 En el **nav bar** de Index.html hay links para acceder a:
  - Portafolio
- - Forks (screenshots de forks y commits realizados)
+ - Forks (links, screenshots de forks y commits realizados)
 
-## Portafolio.html
+## portafolio.html
 El archivo portafolio.html muestra la recolección de proyectos realizados en el curso.
 
 Se puede encontrar en /assets/html/portafolio.html
 
-## Colegas.html
+## forks.html
 El archivo colegas.html muestra los screenshots de forks y commits realizados a trabajos de compañeros de curso.
 
 Se puede encontrar en /assets/html/colegas.html
