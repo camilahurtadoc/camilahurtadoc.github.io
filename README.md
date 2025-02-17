@@ -2,6 +2,7 @@
 
 ## index.html
 index.html muestra el CV actualizado, implementando CSS y Bootstrap.
+- [Link a CV en GitHub Pages](https://camilahurtadoc.github.io/)
 
 En el **nav bar** de index.html hay links para acceder a:
  - Portafolio
